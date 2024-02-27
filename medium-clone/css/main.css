@@ -1,0 +1,130 @@
+body{
+  font-family: roboto;
+}
+
+.main{
+
+  height: 6000px;
+  
+  margin-left: 160px;
+  margin-top: 40px;
+}
+
+.personal-pic{
+  width: 30px;
+  border-radius: 15px;
+}
+
+.name{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.personal-name{
+  margin-left: 12px;
+  font-size: 14px;
+}
+
+.date-one{
+  margin-left: 6px;
+  font-size: 14px;
+  color: gray;
+
+}
+
+.edit-1{
+  max-width: 500px;
+  
+}
+
+.texts{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.big-picture{
+  width: 150px;
+}
+
+.bottom-part{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.bottom-paragraf{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.first-head{
+  font-weight: bolder;
+  font-size: 20px;
+}
+.button{
+  border-radius: 20px;
+  width: 70px;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 10px;
+}
+
+.save-png{
+  cursor: pointer;
+  width: 15px;
+}
+
+.show-less{
+  cursor: pointer;
+  width: 20px;
+}
+
+.dots-png{
+  cursor: pointer;
+  width: 20px;
+}
+
+.part-1{
+  display: flex;
+}
+.plus-1{
+  text-align: center;
+  width: 20px;
+  color: gray;
+}
+.plus-2{
+  margin-left: 16px;
+  width: 70px;
+  color: gray;
+}
+.plus-3{
+  width: 60px;
+  color: gray;
+}
+
+.plus-1:hover{
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: rgb(242, 240, 240);
+}
+
+
+.italic{
+  padding-left: 4px;
+  font-weight: bold;
+
+}
+
+.button2{
+  width: 120px;
+  border-radius: 20px;
+  border: none;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  cursor: pointer;
+}
